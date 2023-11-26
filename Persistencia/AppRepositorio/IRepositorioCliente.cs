@@ -10,6 +10,8 @@ namespace TallerMecanica.Persistencia
       Cliente UpdateCliente(Cliente cliente);
       void DeleteCliente(int Id_Cliente);
       Cliente GetCliente(int Id_Cliente);
+     // Cliente LoginCliente(Cliente cliente);
+      Cliente LoginCliente(string nombre, string contraseña);
  }
 
 }

@@ -61,6 +61,13 @@ namespace TallerMecanica.Persistencia
        return ClienteEncontrado; 
     }
 
+    Cliente IRepositorioCliente.LoginCliente(string nombre, string contraseña)
+    {
+      return _appContext.clientes.FirstOrDefault(c=> c.Nombre == nombre && c.Contraseña == contraseña);
     }
+    /*{
+      return _appContext.clientes.FirstOrDefault(c=> c.Cedula == cliente.Cedula && c.Contraseña == cliente.Contraseña);
 
+    }*/
+    }
 }

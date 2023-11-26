@@ -25,7 +25,7 @@ namespace Frontend.Pages
         public void OnGet()
 
         {
-            Tecnicos= _repo.GetAllTecnico();
+            //Tecnicos= _repo.GetAllTecnico();
             foreach(var tecnico in Tecnicos )
             {
                 Console.WriteLine(tecnico.Nombres);

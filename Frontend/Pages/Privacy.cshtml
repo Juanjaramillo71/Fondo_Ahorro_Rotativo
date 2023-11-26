@@ -6,3 +6,11 @@
 <h1>@ViewData["Title"]</h1>
 
 <p>Use this page to detail your site's privacy policy.</p>
+<script>
+window.onload = function() {
+    var message = '@TempData["Message"]';
+    if (message) {
+        alert(message);
+    }
+}
+</script>
