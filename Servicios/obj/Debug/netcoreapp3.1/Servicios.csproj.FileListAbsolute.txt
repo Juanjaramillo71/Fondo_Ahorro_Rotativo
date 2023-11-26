@@ -1,0 +1,90 @@
+C:\Users\feder\Documents\Servicio Automotriz\TallerMecanica\Servicios\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\feder\Documents\Servicio Automotriz\TallerMecanica\Servicios\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\feder\Documents\Servicio Automotriz\TallerMecanica\Servicios\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\feder\Documents\Servicio Automotriz\TallerMecanica\Servicios\bin\Debug\netcoreapp3.1\Servicios.exe
+C:\Users\feder\Documents\Servicio Automotriz\TallerMecanica\Servicios\bin\Debug\netcoreapp3.1\Servicios.deps.json
+C:\Users\feder\Documents\Servicio Automotriz\TallerMecanica\Servicios\bin\Debug\netcoreapp3.1\Servicios.runtimeconfig.json
+C:\Users\feder\Documents\Servicio Automotriz\TallerMecanica\Servicios\bin\Debug\netcoreapp3.1\Servicios.runtimeconfig.dev.json
+C:\Users\feder\Documents\Servicio Automotriz\TallerMecanica\Servicios\bin\Debug\netcoreapp3.1\Servicios.dll
+C:\Users\feder\Documents\Servicio Automotriz\TallerMecanica\Servicios\bin\Debug\netcoreapp3.1\Servicios.pdb
+C:\Users\feder\Documents\Servicio Automotriz\TallerMecanica\Servicios\obj\Debug\netcoreapp3.1\Servicios.csprojAssemblyReference.cache
+C:\Users\feder\Documents\Servicio Automotriz\TallerMecanica\Servicios\obj\Debug\netcoreapp3.1\Servicios.AssemblyInfoInputs.cache
+C:\Users\feder\Documents\Servicio Automotriz\TallerMecanica\Servicios\obj\Debug\netcoreapp3.1\Servicios.AssemblyInfo.cs
+C:\Users\feder\Documents\Servicio Automotriz\TallerMecanica\Servicios\obj\Debug\netcoreapp3.1\Servicios.csproj.CoreCompileInputs.cache
+C:\Users\feder\Documents\Servicio Automotriz\TallerMecanica\Servicios\obj\Debug\netcoreapp3.1\Servicios.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\feder\Documents\Servicio Automotriz\TallerMecanica\Servicios\obj\Debug\netcoreapp3.1\Servicios.RazorTargetAssemblyInfo.cache
+C:\Users\feder\Documents\Servicio Automotriz\TallerMecanica\Servicios\obj\Debug\netcoreapp3.1\staticwebassets\Servicios.StaticWebAssets.Manifest.cache
+C:\Users\feder\Documents\Servicio Automotriz\TallerMecanica\Servicios\obj\Debug\netcoreapp3.1\staticwebassets\Servicios.StaticWebAssets.xml
+C:\Users\feder\Documents\Servicio Automotriz\TallerMecanica\Servicios\obj\Debug\netcoreapp3.1\Servicios.dll
+C:\Users\feder\Documents\Servicio Automotriz\TallerMecanica\Servicios\obj\Debug\netcoreapp3.1\Servicios.pdb
+C:\Users\feder\Documents\Servicio Automotriz\TallerMecanica\Servicios\obj\Debug\netcoreapp3.1\Servicios.genruntimeconfig.cache
+C:\Users\afbed\Desktop\Taller mecanica clonado\TallerMecanica\Servicios\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\afbed\Desktop\Taller mecanica clonado\TallerMecanica\Servicios\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\afbed\Desktop\Taller mecanica clonado\TallerMecanica\Servicios\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\afbed\Desktop\Taller mecanica clonado\TallerMecanica\Servicios\bin\Debug\netcoreapp3.1\Servicios.exe
+C:\Users\afbed\Desktop\Taller mecanica clonado\TallerMecanica\Servicios\bin\Debug\netcoreapp3.1\Servicios.deps.json
+C:\Users\afbed\Desktop\Taller mecanica clonado\TallerMecanica\Servicios\bin\Debug\netcoreapp3.1\Servicios.runtimeconfig.json
+C:\Users\afbed\Desktop\Taller mecanica clonado\TallerMecanica\Servicios\bin\Debug\netcoreapp3.1\Servicios.runtimeconfig.dev.json
+C:\Users\afbed\Desktop\Taller mecanica clonado\TallerMecanica\Servicios\bin\Debug\netcoreapp3.1\Servicios.dll
+C:\Users\afbed\Desktop\Taller mecanica clonado\TallerMecanica\Servicios\bin\Debug\netcoreapp3.1\Servicios.pdb
+C:\Users\afbed\Desktop\Taller mecanica clonado\TallerMecanica\Servicios\obj\Debug\netcoreapp3.1\Servicios.csprojAssemblyReference.cache
+C:\Users\afbed\Desktop\Taller mecanica clonado\TallerMecanica\Servicios\obj\Debug\netcoreapp3.1\Servicios.AssemblyInfoInputs.cache
+C:\Users\afbed\Desktop\Taller mecanica clonado\TallerMecanica\Servicios\obj\Debug\netcoreapp3.1\Servicios.AssemblyInfo.cs
+C:\Users\afbed\Desktop\Taller mecanica clonado\TallerMecanica\Servicios\obj\Debug\netcoreapp3.1\Servicios.csproj.CoreCompileInputs.cache
+C:\Users\afbed\Desktop\Taller mecanica clonado\TallerMecanica\Servicios\obj\Debug\netcoreapp3.1\Servicios.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\afbed\Desktop\Taller mecanica clonado\TallerMecanica\Servicios\obj\Debug\netcoreapp3.1\Servicios.RazorTargetAssemblyInfo.cache
+C:\Users\afbed\Desktop\Taller mecanica clonado\TallerMecanica\Servicios\obj\Debug\netcoreapp3.1\staticwebassets\Servicios.StaticWebAssets.Manifest.cache
+C:\Users\afbed\Desktop\Taller mecanica clonado\TallerMecanica\Servicios\obj\Debug\netcoreapp3.1\staticwebassets\Servicios.StaticWebAssets.xml
+C:\Users\afbed\Desktop\Taller mecanica clonado\TallerMecanica\Servicios\obj\Debug\netcoreapp3.1\Servicios.dll
+C:\Users\afbed\Desktop\Taller mecanica clonado\TallerMecanica\Servicios\obj\Debug\netcoreapp3.1\Servicios.pdb
+C:\Users\afbed\Desktop\Taller mecanica clonado\TallerMecanica\Servicios\obj\Debug\netcoreapp3.1\Servicios.genruntimeconfig.cache
+D:\Nueva carpeta\TallerMecanica-main\TallerMecanica-main\Servicios\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Nueva carpeta\TallerMecanica-main\TallerMecanica-main\Servicios\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Nueva carpeta\TallerMecanica-main\TallerMecanica-main\Servicios\bin\Debug\netcoreapp3.1\Servicios.StaticWebAssets.xml
+D:\Nueva carpeta\TallerMecanica-main\TallerMecanica-main\Servicios\bin\Debug\netcoreapp3.1\Servicios.exe
+D:\Nueva carpeta\TallerMecanica-main\TallerMecanica-main\Servicios\bin\Debug\netcoreapp3.1\Servicios.deps.json
+D:\Nueva carpeta\TallerMecanica-main\TallerMecanica-main\Servicios\bin\Debug\netcoreapp3.1\Servicios.runtimeconfig.json
+D:\Nueva carpeta\TallerMecanica-main\TallerMecanica-main\Servicios\bin\Debug\netcoreapp3.1\Servicios.runtimeconfig.dev.json
+D:\Nueva carpeta\TallerMecanica-main\TallerMecanica-main\Servicios\bin\Debug\netcoreapp3.1\Servicios.dll
+D:\Nueva carpeta\TallerMecanica-main\TallerMecanica-main\Servicios\bin\Debug\netcoreapp3.1\Servicios.pdb
+D:\Nueva carpeta\TallerMecanica-main\TallerMecanica-main\Servicios\obj\Debug\netcoreapp3.1\Servicios.csproj.AssemblyReference.cache
+D:\Nueva carpeta\TallerMecanica-main\TallerMecanica-main\Servicios\obj\Debug\netcoreapp3.1\Servicios.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nueva carpeta\TallerMecanica-main\TallerMecanica-main\Servicios\obj\Debug\netcoreapp3.1\Servicios.AssemblyInfoInputs.cache
+D:\Nueva carpeta\TallerMecanica-main\TallerMecanica-main\Servicios\obj\Debug\netcoreapp3.1\Servicios.AssemblyInfo.cs
+D:\Nueva carpeta\TallerMecanica-main\TallerMecanica-main\Servicios\obj\Debug\netcoreapp3.1\Servicios.csproj.CoreCompileInputs.cache
+D:\Nueva carpeta\TallerMecanica-main\TallerMecanica-main\Servicios\obj\Debug\netcoreapp3.1\Servicios.MvcApplicationPartsAssemblyInfo.cache
+D:\Nueva carpeta\TallerMecanica-main\TallerMecanica-main\Servicios\obj\Debug\netcoreapp3.1\staticwebassets\Servicios.StaticWebAssets.Manifest.cache
+D:\Nueva carpeta\TallerMecanica-main\TallerMecanica-main\Servicios\obj\Debug\netcoreapp3.1\staticwebassets\Servicios.StaticWebAssets.Pack.cache
+D:\Nueva carpeta\TallerMecanica-main\TallerMecanica-main\Servicios\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Servicios.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Nueva carpeta\TallerMecanica-main\TallerMecanica-main\Servicios\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Servicios.props
+D:\Nueva carpeta\TallerMecanica-main\TallerMecanica-main\Servicios\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Servicios.props
+D:\Nueva carpeta\TallerMecanica-main\TallerMecanica-main\Servicios\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Servicios.props
+D:\Nueva carpeta\TallerMecanica-main\TallerMecanica-main\Servicios\obj\Debug\netcoreapp3.1\Servicios.RazorTargetAssemblyInfo.cache
+D:\Nueva carpeta\TallerMecanica-main\TallerMecanica-main\Servicios\obj\Debug\netcoreapp3.1\Servicios.dll
+D:\Nueva carpeta\TallerMecanica-main\TallerMecanica-main\Servicios\obj\Debug\netcoreapp3.1\Servicios.pdb
+D:\Nueva carpeta\TallerMecanica-main\TallerMecanica-main\Servicios\obj\Debug\netcoreapp3.1\Servicios.genruntimeconfig.cache
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_Project2\Servicios\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_Project2\Servicios\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_Project2\Servicios\bin\Debug\netcoreapp3.1\Servicios.StaticWebAssets.xml
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_Project2\Servicios\bin\Debug\netcoreapp3.1\Servicios.exe
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_Project2\Servicios\bin\Debug\netcoreapp3.1\Servicios.deps.json
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_Project2\Servicios\bin\Debug\netcoreapp3.1\Servicios.runtimeconfig.json
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_Project2\Servicios\bin\Debug\netcoreapp3.1\Servicios.runtimeconfig.dev.json
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_Project2\Servicios\bin\Debug\netcoreapp3.1\Servicios.dll
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_Project2\Servicios\bin\Debug\netcoreapp3.1\Servicios.pdb
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_Project2\Servicios\obj\Debug\netcoreapp3.1\Servicios.csproj.AssemblyReference.cache
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_Project2\Servicios\obj\Debug\netcoreapp3.1\Servicios.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_Project2\Servicios\obj\Debug\netcoreapp3.1\Servicios.AssemblyInfoInputs.cache
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_Project2\Servicios\obj\Debug\netcoreapp3.1\Servicios.AssemblyInfo.cs
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_Project2\Servicios\obj\Debug\netcoreapp3.1\Servicios.csproj.CoreCompileInputs.cache
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_Project2\Servicios\obj\Debug\netcoreapp3.1\Servicios.MvcApplicationPartsAssemblyInfo.cache
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_Project2\Servicios\obj\Debug\netcoreapp3.1\staticwebassets\Servicios.StaticWebAssets.Manifest.cache
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_Project2\Servicios\obj\Debug\netcoreapp3.1\staticwebassets\Servicios.StaticWebAssets.Pack.cache
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_Project2\Servicios\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Servicios.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_Project2\Servicios\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Servicios.props
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_Project2\Servicios\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Servicios.props
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_Project2\Servicios\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Servicios.props
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_Project2\Servicios\obj\Debug\netcoreapp3.1\Servicios.RazorTargetAssemblyInfo.cache
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_Project2\Servicios\obj\Debug\netcoreapp3.1\Servicios.dll
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_Project2\Servicios\obj\Debug\netcoreapp3.1\Servicios.pdb
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_Project2\Servicios\obj\Debug\netcoreapp3.1\Servicios.genruntimeconfig.cache

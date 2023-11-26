@@ -1,0 +1,48 @@
+D:\Nueva carpeta\TallerMecanica-main\TallerMecanica-main\Persistencia\bin\Debug\netcoreapp3.1\TallerMecanica.Persistencia.deps.json
+D:\Nueva carpeta\TallerMecanica-main\TallerMecanica-main\Persistencia\bin\Debug\netcoreapp3.1\TallerMecanica.Persistencia.runtimeconfig.json
+D:\Nueva carpeta\TallerMecanica-main\TallerMecanica-main\Persistencia\bin\Debug\netcoreapp3.1\TallerMecanica.Persistencia.runtimeconfig.dev.json
+D:\Nueva carpeta\TallerMecanica-main\TallerMecanica-main\Persistencia\bin\Debug\netcoreapp3.1\TallerMecanica.Persistencia.dll
+D:\Nueva carpeta\TallerMecanica-main\TallerMecanica-main\Persistencia\bin\Debug\netcoreapp3.1\TallerMecanica.Persistencia.pdb
+D:\Nueva carpeta\TallerMecanica-main\TallerMecanica-main\Persistencia\bin\Debug\netcoreapp3.1\Dominio.dll
+D:\Nueva carpeta\TallerMecanica-main\TallerMecanica-main\Persistencia\bin\Debug\netcoreapp3.1\Dominio.pdb
+D:\Nueva carpeta\TallerMecanica-main\TallerMecanica-main\Persistencia\obj\Debug\netcoreapp3.1\TallerMecanica.Persistencia.csproj.AssemblyReference.cache
+D:\Nueva carpeta\TallerMecanica-main\TallerMecanica-main\Persistencia\obj\Debug\netcoreapp3.1\TallerMecanica.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nueva carpeta\TallerMecanica-main\TallerMecanica-main\Persistencia\obj\Debug\netcoreapp3.1\TallerMecanica.Persistencia.AssemblyInfoInputs.cache
+D:\Nueva carpeta\TallerMecanica-main\TallerMecanica-main\Persistencia\obj\Debug\netcoreapp3.1\TallerMecanica.Persistencia.AssemblyInfo.cs
+D:\Nueva carpeta\TallerMecanica-main\TallerMecanica-main\Persistencia\obj\Debug\netcoreapp3.1\TallerMecanica.Persistencia.csproj.CoreCompileInputs.cache
+D:\Nueva carpeta\TallerMecanica-main\TallerMecanica-main\Persistencia\obj\Debug\netcoreapp3.1\TallerMecanica.Persistencia.csproj.CopyComplete
+D:\Nueva carpeta\TallerMecanica-main\TallerMecanica-main\Persistencia\obj\Debug\netcoreapp3.1\TallerMecanica.Persistencia.dll
+D:\Nueva carpeta\TallerMecanica-main\TallerMecanica-main\Persistencia\obj\Debug\netcoreapp3.1\TallerMecanica.Persistencia.pdb
+D:\Nueva carpeta\TallerMecanica-main\TallerMecanica-main\Persistencia\obj\Debug\netcoreapp3.1\TallerMecanica.Persistencia.genruntimeconfig.cache
+D:\Nueva carpeta\TallerMecanica-main\Fondo_Ahorro_Project2\Persistencia\bin\Debug\netcoreapp3.1\TallerMecanica.Persistencia.deps.json
+D:\Nueva carpeta\TallerMecanica-main\Fondo_Ahorro_Project2\Persistencia\bin\Debug\netcoreapp3.1\TallerMecanica.Persistencia.runtimeconfig.json
+D:\Nueva carpeta\TallerMecanica-main\Fondo_Ahorro_Project2\Persistencia\bin\Debug\netcoreapp3.1\TallerMecanica.Persistencia.runtimeconfig.dev.json
+D:\Nueva carpeta\TallerMecanica-main\Fondo_Ahorro_Project2\Persistencia\bin\Debug\netcoreapp3.1\TallerMecanica.Persistencia.dll
+D:\Nueva carpeta\TallerMecanica-main\Fondo_Ahorro_Project2\Persistencia\bin\Debug\netcoreapp3.1\TallerMecanica.Persistencia.pdb
+D:\Nueva carpeta\TallerMecanica-main\Fondo_Ahorro_Project2\Persistencia\bin\Debug\netcoreapp3.1\Dominio.dll
+D:\Nueva carpeta\TallerMecanica-main\Fondo_Ahorro_Project2\Persistencia\bin\Debug\netcoreapp3.1\Dominio.pdb
+D:\Nueva carpeta\TallerMecanica-main\Fondo_Ahorro_Project2\Persistencia\obj\Debug\netcoreapp3.1\TallerMecanica.Persistencia.csproj.AssemblyReference.cache
+D:\Nueva carpeta\TallerMecanica-main\Fondo_Ahorro_Project2\Persistencia\obj\Debug\netcoreapp3.1\TallerMecanica.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nueva carpeta\TallerMecanica-main\Fondo_Ahorro_Project2\Persistencia\obj\Debug\netcoreapp3.1\TallerMecanica.Persistencia.AssemblyInfoInputs.cache
+D:\Nueva carpeta\TallerMecanica-main\Fondo_Ahorro_Project2\Persistencia\obj\Debug\netcoreapp3.1\TallerMecanica.Persistencia.AssemblyInfo.cs
+D:\Nueva carpeta\TallerMecanica-main\Fondo_Ahorro_Project2\Persistencia\obj\Debug\netcoreapp3.1\TallerMecanica.Persistencia.csproj.CoreCompileInputs.cache
+D:\Nueva carpeta\TallerMecanica-main\Fondo_Ahorro_Project2\Persistencia\obj\Debug\netcoreapp3.1\TallerMecanica.Persistencia.csproj.CopyComplete
+D:\Nueva carpeta\TallerMecanica-main\Fondo_Ahorro_Project2\Persistencia\obj\Debug\netcoreapp3.1\TallerMecanica.Persistencia.dll
+D:\Nueva carpeta\TallerMecanica-main\Fondo_Ahorro_Project2\Persistencia\obj\Debug\netcoreapp3.1\TallerMecanica.Persistencia.pdb
+D:\Nueva carpeta\TallerMecanica-main\Fondo_Ahorro_Project2\Persistencia\obj\Debug\netcoreapp3.1\TallerMecanica.Persistencia.genruntimeconfig.cache
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_Project2\Persistencia\bin\Debug\netcoreapp3.1\TallerMecanica.Persistencia.deps.json
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_Project2\Persistencia\bin\Debug\netcoreapp3.1\TallerMecanica.Persistencia.runtimeconfig.json
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_Project2\Persistencia\bin\Debug\netcoreapp3.1\TallerMecanica.Persistencia.runtimeconfig.dev.json
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_Project2\Persistencia\bin\Debug\netcoreapp3.1\TallerMecanica.Persistencia.dll
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_Project2\Persistencia\bin\Debug\netcoreapp3.1\TallerMecanica.Persistencia.pdb
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_Project2\Persistencia\bin\Debug\netcoreapp3.1\dominio.dll
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_Project2\Persistencia\bin\Debug\netcoreapp3.1\dominio.pdb
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_Project2\Persistencia\obj\Debug\netcoreapp3.1\TallerMecanica.Persistencia.csproj.AssemblyReference.cache
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_Project2\Persistencia\obj\Debug\netcoreapp3.1\TallerMecanica.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_Project2\Persistencia\obj\Debug\netcoreapp3.1\TallerMecanica.Persistencia.AssemblyInfoInputs.cache
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_Project2\Persistencia\obj\Debug\netcoreapp3.1\TallerMecanica.Persistencia.AssemblyInfo.cs
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_Project2\Persistencia\obj\Debug\netcoreapp3.1\TallerMecanica.Persistencia.csproj.CoreCompileInputs.cache
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_Project2\Persistencia\obj\Debug\netcoreapp3.1\TallerMecanica.Persistencia.csproj.CopyComplete
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_Project2\Persistencia\obj\Debug\netcoreapp3.1\TallerMecanica.Persistencia.dll
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_Project2\Persistencia\obj\Debug\netcoreapp3.1\TallerMecanica.Persistencia.pdb
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_Project2\Persistencia\obj\Debug\netcoreapp3.1\TallerMecanica.Persistencia.genruntimeconfig.cache

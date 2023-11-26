@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4h9QqMxtO1ovkPf0M92W/0QE0znPYar97bZHbUv9JdM15CWqp7pN/qadGafzcjt+myynDc7KngCMjKTtuoBxpg==",
+  "success": true,
+  "projectFilePath": "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_Project2\\Servicios\\Servicios.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Juan D. JM\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
