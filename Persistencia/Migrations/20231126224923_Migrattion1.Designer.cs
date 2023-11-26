@@ -2,15 +2,17 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using TallerMecanica.Persistencia;
 
 namespace TallerMecanica.Persistencia.Migrations
 {
     [DbContext(typeof(ApppContext))]
-    partial class ApppContextModelSnapshot : ModelSnapshot
+    [Migration("20231126224923_Migrattion1")]
+    partial class Migrattion1
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
