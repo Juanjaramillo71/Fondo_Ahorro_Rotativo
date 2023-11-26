@@ -1,0 +1,16 @@
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_App\Persistencia\obj\Debug\netcoreapp3.1\Fondo_Ahorro_App.Persistencia.csproj.AssemblyReference.cache
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_App\Persistencia\obj\Debug\netcoreapp3.1\Fondo_Ahorro_App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_App\Persistencia\obj\Debug\netcoreapp3.1\Fondo_Ahorro_App.Persistencia.AssemblyInfoInputs.cache
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_App\Persistencia\obj\Debug\netcoreapp3.1\Fondo_Ahorro_App.Persistencia.AssemblyInfo.cs
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_App\Persistencia\obj\Debug\netcoreapp3.1\Fondo_Ahorro_App.Persistencia.csproj.CoreCompileInputs.cache
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_App\Persistencia\bin\Debug\netcoreapp3.1\Fondo_Ahorro_App.Persistencia.deps.json
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_App\Persistencia\bin\Debug\netcoreapp3.1\Fondo_Ahorro_App.Persistencia.runtimeconfig.json
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_App\Persistencia\bin\Debug\netcoreapp3.1\Fondo_Ahorro_App.Persistencia.runtimeconfig.dev.json
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_App\Persistencia\bin\Debug\netcoreapp3.1\Fondo_Ahorro_App.Persistencia.dll
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_App\Persistencia\bin\Debug\netcoreapp3.1\Fondo_Ahorro_App.Persistencia.pdb
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_App\Persistencia\bin\Debug\netcoreapp3.1\Dominio.dll
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_App\Persistencia\bin\Debug\netcoreapp3.1\Dominio.pdb
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_App\Persistencia\obj\Debug\netcoreapp3.1\Fondo_Ahorro_App.Persistencia.csproj.CopyComplete
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_App\Persistencia\obj\Debug\netcoreapp3.1\Fondo_Ahorro_App.Persistencia.dll
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_App\Persistencia\obj\Debug\netcoreapp3.1\Fondo_Ahorro_App.Persistencia.pdb
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_App\Persistencia\obj\Debug\netcoreapp3.1\Fondo_Ahorro_App.Persistencia.genruntimeconfig.cache

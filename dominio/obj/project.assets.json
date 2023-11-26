@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_Project2\\dominio\\dominio.csproj",
+      "projectUniqueName": "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_App\\dominio\\dominio.csproj",
       "projectName": "dominio",
-      "projectPath": "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_Project2\\dominio\\dominio.csproj",
+      "projectPath": "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_App\\dominio\\dominio.csproj",
       "packagesPath": "C:\\Users\\Juan D. JM\\.nuget\\packages\\",
-      "outputPath": "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_Project2\\dominio\\obj\\",
+      "outputPath": "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_App\\dominio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Juan D. JM\\AppData\\Roaming\\NuGet\\NuGet.Config"

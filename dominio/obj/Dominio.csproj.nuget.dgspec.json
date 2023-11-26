@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_Project2\\Dominio\\Dominio.csproj": {}
+    "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_App\\Dominio\\Dominio.csproj": {}
   },
   "projects": {
-    "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_Project2\\Dominio\\Dominio.csproj": {
+    "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_App\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_Project2\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_App\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_Project2\\Dominio\\Dominio.csproj",
+        "projectPath": "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_App\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\Juan D. JM\\.nuget\\packages\\",
-        "outputPath": "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_Project2\\Dominio\\obj\\",
+        "outputPath": "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_App\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Juan D. JM\\AppData\\Roaming\\NuGet\\NuGet.Config"

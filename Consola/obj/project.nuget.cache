@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HupcD3ccgXgRUmD+BCeginngDKsYODwwN4ZoQX/qcnXyD0JB+pU3u3l30sLvbi8t510MmOVTdohijrEM8pNC2A==",
+  "dgSpecHash": "jKIvEOxQngY3hbHF0vF6Ycp+mlfsgk7xd062LLsHfhWlnn9VhehX+SqDWaKlOJzVLxdwwg5gV9p7NkeaqctN7g==",
   "success": true,
-  "projectFilePath": "D:\\Nueva carpeta\\TallerMecanica-main\\TallerMecanica-main\\Consola\\Consola.csproj",
+  "projectFilePath": "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_App\\Consola\\Consola.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Juan D. JM\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Juan D. JM\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

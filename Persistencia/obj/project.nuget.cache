@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GNmzZcyPrNHrN+Ze6NrOOzqQQiB2vYp0jG76rhozYkjZathWLcYAwEY0vNYCZ4V+2kH9XKy9vD6jqZFXelsM/A==",
+  "dgSpecHash": "CdskhqI74BGQ2VykXbr/dxgvA4cg5KWv3LbQc9zht0q8VcYT4BoUJwpirKEWJ8ba9sgrdgcdV2zDtOSid6sjgQ==",
   "success": true,
-  "projectFilePath": "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_Project2\\Persistencia\\TallerMecanica.Persistencia.csproj",
+  "projectFilePath": "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_App\\Persistencia\\Fondo_Ahorro_App.Persistencia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Juan D. JM\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Juan D. JM\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

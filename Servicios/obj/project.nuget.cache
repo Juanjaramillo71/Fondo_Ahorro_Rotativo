@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4h9QqMxtO1ovkPf0M92W/0QE0znPYar97bZHbUv9JdM15CWqp7pN/qadGafzcjt+myynDc7KngCMjKTtuoBxpg==",
+  "dgSpecHash": "6aIRT/BpXRee6wltFWdOf0CK1pDku/wVPWB6sV/dNfcoEQs8qjnw7yHZW+PMnlrnCu2Uef/PHd8w8JDuXWZp8w==",
   "success": true,
-  "projectFilePath": "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_Project2\\Servicios\\Servicios.csproj",
+  "projectFilePath": "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_App\\Servicios\\Servicios.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Juan D. JM\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
   ],

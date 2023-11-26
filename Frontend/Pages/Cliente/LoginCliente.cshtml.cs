@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Dominio;
-using TallerMecanica.Persistencia;
+using Fondo_Ahorro_App.Persistencia;
 
 namespace Frontend.Pages
 {

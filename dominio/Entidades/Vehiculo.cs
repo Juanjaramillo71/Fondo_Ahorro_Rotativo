@@ -1,8 +1,4 @@
-using System;
-//using TallerMecanica;
-
-//namespace Dominio
-namespace TallerMecanica
+namespace Dominio
 {
     public class Vehiculo
     {

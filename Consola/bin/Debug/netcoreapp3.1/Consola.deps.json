@@ -8,8 +8,9 @@
     ".NETCoreApp,Version=v3.1": {
       "Consola/1.0.0": {
         "dependencies": {
-          "Microsoft.EntityFrameworkCore.Design": "5.0.0",
-          "TallerMecanica.Persistencia": "1.0.0"
+          "Dominio": "1.0.0",
+          "Fondo_Ahorro_App.Persistencia": "1.0.0",
+          "Microsoft.EntityFrameworkCore.Design": "5.0.0"
         },
         "runtime": {
           "Consola.dll": {}
@@ -1081,14 +1082,14 @@
           "dominio.dll": {}
         }
       },
-      "TallerMecanica.Persistencia/1.0.0": {
+      "Fondo_Ahorro_App.Persistencia/1.0.0": {
         "dependencies": {
           "Dominio": "1.0.0",
           "Microsoft.EntityFrameworkCore": "5.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.0"
         },
         "runtime": {
-          "TallerMecanica.Persistencia.dll": {}
+          "Fondo_Ahorro_App.Persistencia.dll": {}
         }
       }
     }
@@ -1776,7 +1777,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "TallerMecanica.Persistencia/1.0.0": {
+    "Fondo_Ahorro_App.Persistencia/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

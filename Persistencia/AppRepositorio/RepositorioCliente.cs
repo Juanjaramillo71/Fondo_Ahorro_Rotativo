@@ -2,10 +2,10 @@ using System.Collections.Generic;
 using System;
 using System.Linq; 
 using Dominio;
-using TallerMecanica.Persistencia;
+using Fondo_Ahorro_App.Persistencia;
 using System.Threading.Tasks;
 
-namespace TallerMecanica.Persistencia
+namespace Fondo_Ahorro_App.Persistencia
 {
     public class RepositorioCliente : IRepositorioCliente
     {

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_Project2\\Persistencia\\TallerMecanica.Persistencia.csproj": {}
+    "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_App\\Persistencia\\TallerMecanica.Persistencia.csproj": {}
   },
   "projects": {
-    "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_Project2\\Dominio\\Dominio.csproj": {
+    "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_App\\dominio\\dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_Project2\\Dominio\\Dominio.csproj",
-        "projectName": "Dominio",
-        "projectPath": "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_Project2\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_App\\dominio\\dominio.csproj",
+        "projectName": "dominio",
+        "projectPath": "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_App\\dominio\\dominio.csproj",
         "packagesPath": "C:\\Users\\Juan D. JM\\.nuget\\packages\\",
-        "outputPath": "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_Project2\\Dominio\\obj\\",
+        "outputPath": "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_App\\dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Juan D. JM\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -57,14 +57,14 @@
         }
       }
     },
-    "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_Project2\\Persistencia\\TallerMecanica.Persistencia.csproj": {
+    "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_App\\Persistencia\\TallerMecanica.Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_Project2\\Persistencia\\TallerMecanica.Persistencia.csproj",
+        "projectUniqueName": "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_App\\Persistencia\\TallerMecanica.Persistencia.csproj",
         "projectName": "TallerMecanica.Persistencia",
-        "projectPath": "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_Project2\\Persistencia\\TallerMecanica.Persistencia.csproj",
+        "projectPath": "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_App\\Persistencia\\TallerMecanica.Persistencia.csproj",
         "packagesPath": "C:\\Users\\Juan D. JM\\.nuget\\packages\\",
-        "outputPath": "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_Project2\\Persistencia\\obj\\",
+        "outputPath": "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_App\\Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Juan D. JM\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -79,8 +79,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_Project2\\Dominio\\Dominio.csproj": {
-                "projectPath": "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_Project2\\Dominio\\Dominio.csproj"
+              "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_App\\dominio\\dominio.csproj": {
+                "projectPath": "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_App\\dominio\\dominio.csproj"
               }
             }
           }

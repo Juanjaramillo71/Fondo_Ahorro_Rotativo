@@ -12,7 +12,7 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using TallerMecanica.Persistencia;
+using Fondo_Ahorro_App.Persistencia;
 using Microsoft.EntityFrameworkCore;
 
 namespace Frontend

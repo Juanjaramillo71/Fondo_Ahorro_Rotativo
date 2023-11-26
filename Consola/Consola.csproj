@@ -13,7 +13,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Persistencia\TallerMecanica.Persistencia.csproj" />
+    <ProjectReference Include="..\Dominio\Dominio.csproj" />
+    <ProjectReference Include="..\Persistencia\Fondo_Ahorro_App.Persistencia.csproj" />
   </ItemGroup>
 
 </Project>

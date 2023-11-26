@@ -1763,19 +1763,19 @@
           "bin/placeholder/Dominio.dll": {}
         }
       },
-      "TallerMecanica.Persistencia/1.0.0": {
+      "Fondo_Ahorro_App.Persistencia/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v2.1",
+        "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
           "Dominio": "1.0.0",
           "Microsoft.EntityFrameworkCore": "5.0.0",
           "Microsoft.EntityFrameworkCore.Sqlserver": "5.0.0"
         },
         "compile": {
-          "bin/placeholder/TallerMecanica.Persistencia.dll": {}
+          "bin/placeholder/Fondo_Ahorro_App.Persistencia.dll": {}
         },
         "runtime": {
-          "bin/placeholder/TallerMecanica.Persistencia.dll": {}
+          "bin/placeholder/Fondo_Ahorro_App.Persistencia.dll": {}
         }
       }
     }
@@ -6027,16 +6027,17 @@
       "path": "../Dominio/Dominio.csproj",
       "msbuildProject": "../Dominio/Dominio.csproj"
     },
-    "TallerMecanica.Persistencia/1.0.0": {
+    "Fondo_Ahorro_App.Persistencia/1.0.0": {
       "type": "project",
-      "path": "../Persistencia/TallerMecanica.Persistencia.csproj",
-      "msbuildProject": "../Persistencia/TallerMecanica.Persistencia.csproj"
+      "path": "../Persistencia/Fondo_Ahorro_App.Persistencia.csproj",
+      "msbuildProject": "../Persistencia/Fondo_Ahorro_App.Persistencia.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Microsoft.EntityFrameworkCore.Design >= 5.0.0",
-      "TallerMecanica.Persistencia >= 1.0.0"
+      "Dominio >= 1.0.0",
+      "Fondo_Ahorro_App.Persistencia >= 1.0.0",
+      "Microsoft.EntityFrameworkCore.Design >= 5.0.0"
     ]
   },
   "packageFolders": {
@@ -6045,11 +6046,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Nueva carpeta\\TallerMecanica-main\\TallerMecanica-main\\Consola\\Consola.csproj",
+      "projectUniqueName": "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_App\\Consola\\Consola.csproj",
       "projectName": "Consola",
-      "projectPath": "D:\\Nueva carpeta\\TallerMecanica-main\\TallerMecanica-main\\Consola\\Consola.csproj",
+      "projectPath": "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_App\\Consola\\Consola.csproj",
       "packagesPath": "C:\\Users\\Juan D. JM\\.nuget\\packages\\",
-      "outputPath": "D:\\Nueva carpeta\\TallerMecanica-main\\TallerMecanica-main\\Consola\\obj\\",
+      "outputPath": "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_App\\Consola\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Juan D. JM\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -6064,8 +6065,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\Nueva carpeta\\TallerMecanica-main\\TallerMecanica-main\\Persistencia\\TallerMecanica.Persistencia.csproj": {
-              "projectPath": "D:\\Nueva carpeta\\TallerMecanica-main\\TallerMecanica-main\\Persistencia\\TallerMecanica.Persistencia.csproj"
+            "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_App\\Dominio\\Dominio.csproj": {
+              "projectPath": "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_App\\Dominio\\Dominio.csproj"
+            },
+            "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_App\\Persistencia\\Fondo_Ahorro_App.Persistencia.csproj": {
+              "projectPath": "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_App\\Persistencia\\Fondo_Ahorro_App.Persistencia.csproj"
             }
           }
         }

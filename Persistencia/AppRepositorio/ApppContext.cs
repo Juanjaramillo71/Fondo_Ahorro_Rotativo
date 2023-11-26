@@ -3,7 +3,7 @@ using Dominio;
 using Microsoft.EntityFrameworkCore;
 
 
-namespace TallerMecanica.Persistencia
+namespace Fondo_Ahorro_App.Persistencia
 {
     public class ApppContext: DbContext
     {

@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using Dominio;
 
 
-namespace TallerMecanica.Persistencia
+namespace Fondo_Ahorro_App.Persistencia
 {
     public class RepositorioTecnico : IRepositorioTecnico
     {

@@ -1,7 +1,7 @@
 ﻿using System;
 using Dominio;
-using TallerMecanica;
-using TallerMecanica.Persistencia;
+using Fondo_Ahorro_App;
+using Fondo_Ahorro_App.Persistencia;
 
 namespace Consola
 {

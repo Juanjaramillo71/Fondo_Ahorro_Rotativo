@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Nueva carpeta\\TallerMecanica-main\\TallerMecanica-main\\Consola\\Consola.csproj": {}
+    "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_App\\Consola\\Consola.csproj": {}
   },
   "projects": {
-    "D:\\Nueva carpeta\\TallerMecanica-main\\TallerMecanica-main\\Consola\\Consola.csproj": {
+    "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_App\\Consola\\Consola.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Nueva carpeta\\TallerMecanica-main\\TallerMecanica-main\\Consola\\Consola.csproj",
+        "projectUniqueName": "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_App\\Consola\\Consola.csproj",
         "projectName": "Consola",
-        "projectPath": "D:\\Nueva carpeta\\TallerMecanica-main\\TallerMecanica-main\\Consola\\Consola.csproj",
+        "projectPath": "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_App\\Consola\\Consola.csproj",
         "packagesPath": "C:\\Users\\Juan D. JM\\.nuget\\packages\\",
-        "outputPath": "D:\\Nueva carpeta\\TallerMecanica-main\\TallerMecanica-main\\Consola\\obj\\",
+        "outputPath": "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_App\\Consola\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Juan D. JM\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Nueva carpeta\\TallerMecanica-main\\TallerMecanica-main\\Persistencia\\TallerMecanica.Persistencia.csproj": {
-                "projectPath": "D:\\Nueva carpeta\\TallerMecanica-main\\TallerMecanica-main\\Persistencia\\TallerMecanica.Persistencia.csproj"
+              "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_App\\Dominio\\Dominio.csproj": {
+                "projectPath": "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_App\\Dominio\\Dominio.csproj"
+              },
+              "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_App\\Persistencia\\Fondo_Ahorro_App.Persistencia.csproj": {
+                "projectPath": "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_App\\Persistencia\\Fondo_Ahorro_App.Persistencia.csproj"
               }
             }
           }
@@ -75,14 +78,14 @@
         }
       }
     },
-    "D:\\Nueva carpeta\\TallerMecanica-main\\TallerMecanica-main\\Dominio\\Dominio.csproj": {
+    "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_App\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Nueva carpeta\\TallerMecanica-main\\TallerMecanica-main\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_App\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "D:\\Nueva carpeta\\TallerMecanica-main\\TallerMecanica-main\\Dominio\\Dominio.csproj",
+        "projectPath": "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_App\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\Juan D. JM\\.nuget\\packages\\",
-        "outputPath": "D:\\Nueva carpeta\\TallerMecanica-main\\TallerMecanica-main\\Dominio\\obj\\",
+        "outputPath": "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_App\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Juan D. JM\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -128,30 +131,30 @@
         }
       }
     },
-    "D:\\Nueva carpeta\\TallerMecanica-main\\TallerMecanica-main\\Persistencia\\TallerMecanica.Persistencia.csproj": {
+    "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_App\\Persistencia\\Fondo_Ahorro_App.Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Nueva carpeta\\TallerMecanica-main\\TallerMecanica-main\\Persistencia\\TallerMecanica.Persistencia.csproj",
-        "projectName": "TallerMecanica.Persistencia",
-        "projectPath": "D:\\Nueva carpeta\\TallerMecanica-main\\TallerMecanica-main\\Persistencia\\TallerMecanica.Persistencia.csproj",
+        "projectUniqueName": "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_App\\Persistencia\\Fondo_Ahorro_App.Persistencia.csproj",
+        "projectName": "Fondo_Ahorro_App.Persistencia",
+        "projectPath": "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_App\\Persistencia\\Fondo_Ahorro_App.Persistencia.csproj",
         "packagesPath": "C:\\Users\\Juan D. JM\\.nuget\\packages\\",
-        "outputPath": "D:\\Nueva carpeta\\TallerMecanica-main\\TallerMecanica-main\\Persistencia\\obj\\",
+        "outputPath": "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_App\\Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Juan D. JM\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "netstandard2.1"
+          "netcoreapp3.1"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netstandard2.1": {
-            "targetAlias": "netstandard2.1",
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Nueva carpeta\\TallerMecanica-main\\TallerMecanica-main\\Dominio\\Dominio.csproj": {
-                "projectPath": "D:\\Nueva carpeta\\TallerMecanica-main\\TallerMecanica-main\\Dominio\\Dominio.csproj"
+              "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_App\\Dominio\\Dominio.csproj": {
+                "projectPath": "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_App\\Dominio\\Dominio.csproj"
               }
             }
           }
@@ -163,8 +166,8 @@
         }
       },
       "frameworks": {
-        "netstandard2.1": {
-          "targetAlias": "netstandard2.1",
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -199,7 +202,7 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "NETStandard.Library": {
+            "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
