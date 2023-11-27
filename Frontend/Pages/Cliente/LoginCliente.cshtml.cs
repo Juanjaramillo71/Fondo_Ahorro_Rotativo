@@ -37,7 +37,8 @@ namespace Frontend.Pages
             {
                 return RedirectToPage("./LoginCliente");
             } 
-            return new RedirectToPageResult("/Privacy");
+            //return RedirectToPage("/Privacy");
+            return RedirectToPage("/Cuenta/MostrarCuenta");
         }
     }
 }

@@ -61,10 +61,10 @@ namespace Fondo_Ahorro_App.Persistencia.Migrations
                         .HasColumnType("int")
                         .UseIdentityColumn();
 
-                    b.Property<int>("AhorroAcumulado")
+                    b.Property<int>("Ahorro")
                         .HasColumnType("int");
 
-                    b.Property<int>("InteresesAbonados")
+                    b.Property<int>("Intereses")
                         .HasColumnType("int");
 
                     b.Property<int>("SaldoTotal")

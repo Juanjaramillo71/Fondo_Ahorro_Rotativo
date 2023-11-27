@@ -32,6 +32,7 @@ namespace Frontend
             services.AddRazorPages();
             services.AddScoped<IRepositorioTecnico,RepositorioTecnico>();
             services.AddScoped<IRepositorioCliente,RepositorioCliente>();
+            services.AddScoped<IRepositorioCuenta,RepositorioCuenta>();
             services.AddDbContext<ApppContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
         }
 

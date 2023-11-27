@@ -9,7 +9,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Fondo_Ahorro_App.Persistencia.Migrations
 {
     [DbContext(typeof(ApppContext))]
-    [Migration("20231126233932_Migrattion")]
+    [Migration("20231127054257_Migrattion")]
     partial class Migrattion
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -63,10 +63,10 @@ namespace Fondo_Ahorro_App.Persistencia.Migrations
                         .HasColumnType("int")
                         .UseIdentityColumn();
 
-                    b.Property<int>("AhorroAcumulado")
+                    b.Property<int>("Ahorro")
                         .HasColumnType("int");
 
-                    b.Property<int>("InteresesAbonados")
+                    b.Property<int>("Intereses")
                         .HasColumnType("int");
 
                     b.Property<int>("SaldoTotal")

@@ -7,6 +7,5 @@ namespace Dominio
         public string Modelo {get;set;}
         public string Color {get;set;}
         public int Cilindraje {get;set;}
-        //public string Apellido {get;set;}
     }
 }

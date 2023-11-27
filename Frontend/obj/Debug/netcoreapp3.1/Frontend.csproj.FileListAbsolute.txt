@@ -558,7 +558,6 @@ D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_App\Frontend\obj\Debug\netco
 D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_App\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Cliente\EliminarCliente.cshtml.g.cs
 D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_App\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Cliente\LoginCliente.cshtml.g.cs
 D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_App\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Cliente\MostrarListadoCliente.cshtml.g.cs
-D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_App\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Cuenta\VerCuenta.cshtml.g.cs
 D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_App\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
 D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_App\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
 D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_App\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
@@ -576,3 +575,4 @@ D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_App\Frontend\obj\Debug\netco
 D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_App\Frontend\obj\Debug\netcoreapp3.1\Frontend.Views.pdb
 D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_App\Frontend\obj\Debug\netcoreapp3.1\Frontend.csproj.CopyComplete
 D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_App\Frontend\obj\Debug\netcoreapp3.1\Frontend.genruntimeconfig.cache
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_App\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Cuenta\MostrarCuenta.cshtml.g.cs

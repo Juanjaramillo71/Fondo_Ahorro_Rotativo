@@ -33,8 +33,8 @@ namespace Fondo_Ahorro_App.Persistencia.Migrations
                     CuentaId = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
                     Titular = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    AhorroAcumulado = table.Column<int>(type: "int", nullable: false),
-                    InteresesAbonados = table.Column<int>(type: "int", nullable: false),
+                    Ahorro = table.Column<int>(type: "int", nullable: false),
+                    Intereses = table.Column<int>(type: "int", nullable: false),
                     SaldoTotal = table.Column<int>(type: "int", nullable: false)
                 },
                 constraints: table =>
