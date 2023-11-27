@@ -1,0 +1,30 @@
+@page
+@model Frontend.Pages.TransaccionModel
+@{
+}
+<div class="justify-content-center text-center">
+    <h1>Realizar Pago</h1>
+    <br>
+</div>
+<div>
+    <div>
+        <a asp-page="/Cliente/CrearCliente">Registrar Pago</a>
+    </div>
+    <br><br>
+    <table class="table">
+        <tr>
+            <th>TransaccionId</th>
+            <th>Fecha</th>
+            <th>Pago</th>
+          
+        </tr>
+        @*@foreach (var transaccion in Model.Transacciones)
+        {
+            <tr>
+                <td>@transaccion.TransaccionId</td>
+                <td>@transaccion.Fecha</td>
+                <td>@transaccion.Monto</td>                   
+            </tr>
+        }*@
+    </table>
+</div>

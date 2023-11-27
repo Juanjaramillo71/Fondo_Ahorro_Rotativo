@@ -14,13 +14,13 @@ namespace Frontend.Pages
         {
             _reposC = repoCuenta;
         }
-        public void OnGet()
+       /* public void OnGet()
         {
             Cuentas = _reposC.GetCuenta();
             foreach(var cuenta in Cuentas )
             {
                 Console.WriteLine(cuenta.Titular);
             }
-        }
+        }*/
     }
 }

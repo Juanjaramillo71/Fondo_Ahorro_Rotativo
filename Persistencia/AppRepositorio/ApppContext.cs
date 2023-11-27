@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 using Dominio;
 using Microsoft.EntityFrameworkCore;
 
@@ -13,8 +14,11 @@ namespace Fondo_Ahorro_App.Persistencia
        // public DbSet<Tecnico> tecnicos {get; set;}
         public DbSet<Cliente> clientes {get; set;}
         public DbSet<Cuenta> cuentas {get; set;}
+        public DbSet<Transaccion> transacciones { get; set; }
+
         //public DbSet<Historial> historiales{get;set;}
         //public DbSet<Reparacion> reparaciones{get;set;}
+
         public ApppContext()
         {}
 

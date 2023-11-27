@@ -30,9 +30,10 @@ namespace Frontend
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddRazorPages();
-            services.AddScoped<IRepositorioTecnico,RepositorioTecnico>();
+           // services.AddScoped<IRepositorioTecnico,RepositorioTecnico>();
             services.AddScoped<IRepositorioCliente,RepositorioCliente>();
             services.AddScoped<IRepositorioCuenta,RepositorioCuenta>();
+            services.AddScoped<IRepositorioTransaccion,RepositorioTransaccion>();
             services.AddDbContext<ApppContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
         }
 
