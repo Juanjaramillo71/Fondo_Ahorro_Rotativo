@@ -1393,10 +1393,10 @@
       },
       "Dominio/1.0.0": {
         "runtime": {
-          "dominio.dll": {}
+          "Dominio.dll": {}
         },
         "compile": {
-          "dominio.dll": {}
+          "Dominio.dll": {}
         }
       },
       "Fondo_Ahorro_App.Persistencia/1.0.0": {

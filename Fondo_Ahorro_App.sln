@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dominio", "dominio\dominio.csproj", "{54C9F735-E142-40DA-AB45-AC5E2CBFF5A3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "Dominio\Dominio.csproj", "{54C9F735-E142-40DA-AB45-AC5E2CBFF5A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TallerMecanica.Persistencia", "Persistencia\TallerMecanica.Persistencia.csproj", "{41BEA575-227F-4AB9-AAE3-0550162F1B2F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fondo_Ahorro_App.Persistencia", "Persistencia\Fondo_Ahorro_App.Persistencia.csproj", "{41BEA575-227F-4AB9-AAE3-0550162F1B2F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Servicios", "Servicios\Servicios.csproj", "{71BFB09C-0405-4E97-8E44-17A21A493485}"
 EndProject
