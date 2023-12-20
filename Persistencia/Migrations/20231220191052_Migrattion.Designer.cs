@@ -9,8 +9,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Fondo_Ahorro_App.Persistencia.Migrations
 {
     [DbContext(typeof(ApppContext))]
-    [Migration("20231127195013_Migrattion1")]
-    partial class Migrattion1
+    [Migration("20231220191052_Migrattion")]
+    partial class Migrattion
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

@@ -41,6 +41,20 @@ namespace Fondo_Ahorro_App.Persistencia.Migrations
                 {
                     table.PrimaryKey("PK_cuentas", x => x.CuentaId);
                 });
+
+            migrationBuilder.CreateTable(
+                name: "transacciones",
+                columns: table => new
+                {
+                    TransaccionId = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    Fecha = table.Column<float>(type: "real", nullable: false),
+                    Monto = table.Column<int>(type: "int", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_transacciones", x => x.TransaccionId);
+                });
         }
 
         protected override void Down(MigrationBuilder migrationBuilder)
@@ -50,6 +64,9 @@ namespace Fondo_Ahorro_App.Persistencia.Migrations
 
             migrationBuilder.DropTable(
                 name: "cuentas");
+
+            migrationBuilder.DropTable(
+                name: "transacciones");
         }
     }
 }

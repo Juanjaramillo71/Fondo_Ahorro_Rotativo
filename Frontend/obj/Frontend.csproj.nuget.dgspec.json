@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_App\\frontend\\Frontend.csproj": {}
+    "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_App\\Frontend\\Frontend.csproj": {}
   },
   "projects": {
     "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_App\\Dominio\\Dominio.csproj": {
@@ -57,14 +57,14 @@
         }
       }
     },
-    "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_App\\frontend\\Frontend.csproj": {
+    "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_App\\Frontend\\Frontend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_App\\frontend\\Frontend.csproj",
+        "projectUniqueName": "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_App\\Frontend\\Frontend.csproj",
         "projectName": "Frontend",
-        "projectPath": "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_App\\frontend\\Frontend.csproj",
+        "projectPath": "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_App\\Frontend\\Frontend.csproj",
         "packagesPath": "C:\\Users\\Juan D. JM\\.nuget\\packages\\",
-        "outputPath": "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_App\\frontend\\obj\\",
+        "outputPath": "D:\\Proyectos VSC\\Proyectos Secundarios\\Fondo_Ahorro_App\\Frontend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Juan D. JM\\AppData\\Roaming\\NuGet\\NuGet.Config"
