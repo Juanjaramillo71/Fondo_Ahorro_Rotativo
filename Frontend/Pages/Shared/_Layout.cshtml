@@ -8,6 +8,13 @@
     <link rel="stylesheet" href="~/css/site.css" />
     <script src="https://kit.fontawesome.com/50ff11670d.js" crossorigin="anonymous"></script>
     <style>
+
+    header img {
+    width: 10%; /* La imagen ocupará el 100% del ancho del contenedor */
+    height: auto; /* La altura se ajustará automáticamente para mantener la proporción original */
+    display: block; /* Asegura que la imagen no tenga márgenes externos */
+}
+
     .fondo-negro {
         background-color: black;
         color: white; /* Cambia el color del texto a blanco para que sea legible sobre el fondo negro */
@@ -18,9 +25,12 @@
 </head>
 <body> 
     <header class= 'fondo-negro'>
+        <img src="D:\Proyectos VSC\Proyectos Secundarios\Imag\Logo.jpg" alt="Descripción de la imagen">
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-dark border-bottom box-shadow mb-3">
             <div class="container">
-                <a class="navbar-brand" asp-area="" asp-page="/Index">J&O</a>
+                @* <a class="navbar-brand" asp-area="" asp-page="/Index">J&O</a*@
+                <a class="navbar-brand" asp-area="" asp-page="/Index" style="font-size: 20px; font-weight: bold; color: #CCCCCC">J&O</a>
+
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
