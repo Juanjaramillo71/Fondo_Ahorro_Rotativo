@@ -28,8 +28,8 @@ namespace Fondo_Ahorro_App.Persistencia.Migrations
                     b.Property<string>("Apellido")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("Cedula")
-                        .HasColumnType("int");
+                    b.Property<string>("Cedula")
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Contraseña")
                         .HasColumnType("nvarchar(max)");

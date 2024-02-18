@@ -18,13 +18,13 @@ namespace Frontend.Pages
             _reposC = repoCuenta;
             _repoCliente = repoCliente;
         }
-       public void OnGet(string nombreU)
+       public void OnGet(string cedulaU)
         {
-            var nombreUsuario = HttpContext.Session.GetString("NombreUsuario");
-            ViewData["NombreUsuario"] = nombreUsuario;
+            var IdUsuario = HttpContext.Session.GetString("CedulaUsuario");
+            ViewData["CedulaUsuario"] = IdUsuario;
 
 
-           /* if(!string.IsNullOrEmpty(nombreU))
+           /* if(!string.IsNullOrEmpty(cedulaU))
              {
                 Cliente = _repoCliente.GetCliente(nombreU); // Buscar cliente
                 ViewData["NombreUsuario"] = Cliente.Nombre;  

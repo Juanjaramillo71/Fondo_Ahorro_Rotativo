@@ -10,7 +10,7 @@ namespace Frontend.Pages
     public class LoginClienteModel : PageModel
     {   
         [BindProperty]
-        public string NombreU { get; set; }
+        public string CedulaU { get; set; }
         [BindProperty]
         public string ContrasenaU { get; set; }
 
@@ -29,11 +29,11 @@ namespace Frontend.Pages
             /*TempData["Message"] = $"Nombre: {NombreU}, Contraseña: {ContrasenaU}";
             return new RedirectToPageResult("/Privacy");*/
 
-             if (string.IsNullOrEmpty(NombreU) || string.IsNullOrEmpty(ContrasenaU))
+             if (string.IsNullOrEmpty(CedulaU) || string.IsNullOrEmpty(ContrasenaU))
             {
                 return Page();
             }
-            var cliente = _repo.LoginCliente(NombreU, ContrasenaU);
+            var cliente = _repo.LoginCliente(CedulaU, ContrasenaU);
             
             if (cliente == null)
             {
@@ -43,12 +43,13 @@ namespace Frontend.Pages
 
            // return RedirectToPage("/Cuenta/MostrarCuenta", new { cliente = cliente });
 
-        HttpContext.Session.SetString("NombreUsuario", NombreU);
-        return RedirectToPage("/Cuenta/MostrarCuenta");
+          HttpContext.Session.SetString("CedulaUsuario", CedulaU);
+        //return RedirectToPage("/Cuenta/MostrarCuenta");
+
 
 
     
-            //return RedirectToPage("/Cuenta/MostrarCuenta");
+            return RedirectToPage("/Cuenta/MostrarCuenta");
         }
     }
 }

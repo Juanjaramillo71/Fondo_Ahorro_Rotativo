@@ -11,7 +11,7 @@ namespace Fondo_Ahorro_App.Persistencia
       void DeleteCliente(int Id_Cliente);
       Cliente GetCliente(int Id_Cliente);
      // Cliente LoginCliente(Cliente cliente);
-      Cliente LoginCliente(string nombre, string contraseña);
+      Cliente LoginCliente(string cedula, string contraseña);
  }
 
 }

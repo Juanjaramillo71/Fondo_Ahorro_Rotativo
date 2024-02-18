@@ -63,9 +63,9 @@ namespace Fondo_Ahorro_App.Persistencia
        return ClienteEncontrado; 
     }
 
-    Cliente IRepositorioCliente.LoginCliente(string nombre, string contraseña)
+    Cliente IRepositorioCliente.LoginCliente(string cedula, string contraseña)
     {
-      return _appContext.clientes.FirstOrDefault(c=> c.Nombre == nombre && c.Contraseña == contraseña);
+      return _appContext.clientes.FirstOrDefault(c=> c.Cedula == cedula && c.Contraseña == contraseña);
     }
     /*{
       return _appContext.clientes.FirstOrDefault(c=> c.Cedula == cliente.Cedula && c.Contraseña == cliente.Contraseña);

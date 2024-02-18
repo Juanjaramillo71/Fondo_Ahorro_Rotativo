@@ -9,7 +9,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Fondo_Ahorro_App.Persistencia.Migrations
 {
     [DbContext(typeof(ApppContext))]
-    [Migration("20240217194257_Migrattion")]
+    [Migration("20240218054346_Migrattion")]
     partial class Migrattion
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -30,8 +30,8 @@ namespace Fondo_Ahorro_App.Persistencia.Migrations
                     b.Property<string>("Apellido")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("Cedula")
-                        .HasColumnType("int");
+                    b.Property<string>("Cedula")
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Contraseña")
                         .HasColumnType("nvarchar(max)");
