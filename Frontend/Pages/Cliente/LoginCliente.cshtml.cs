@@ -2,6 +2,8 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Dominio;
 using Fondo_Ahorro_App.Persistencia;
+using Microsoft.AspNetCore.Session;
+using Microsoft.AspNetCore.Http;
 
 namespace Frontend.Pages
 {
@@ -38,7 +40,15 @@ namespace Frontend.Pages
                 return RedirectToPage("./LoginCliente");
             } 
             //return RedirectToPage("/Privacy");
-            return RedirectToPage("/Cuenta/MostrarCuenta");
+
+           // return RedirectToPage("/Cuenta/MostrarCuenta", new { cliente = cliente });
+
+        HttpContext.Session.SetString("NombreUsuario", NombreU);
+        return RedirectToPage("/Cuenta/MostrarCuenta");
+
+
+    
+            //return RedirectToPage("/Cuenta/MostrarCuenta");
         }
     }
 }

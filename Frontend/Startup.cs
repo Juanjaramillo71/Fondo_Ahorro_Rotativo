@@ -14,6 +14,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Fondo_Ahorro_App.Persistencia;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Session;
 
 namespace Frontend
 {
@@ -31,10 +32,24 @@ namespace Frontend
         {
             services.AddRazorPages();
            // services.AddScoped<IRepositorioTecnico,RepositorioTecnico>();
+
             services.AddScoped<IRepositorioCliente,RepositorioCliente>();
             services.AddScoped<IRepositorioCuenta,RepositorioCuenta>();
             services.AddScoped<IRepositorioTransaccion,RepositorioTransaccion>();
             services.AddDbContext<ApppContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+            services.AddDistributedMemoryCache(); // Esto es la base para guardar sesiones en memoria
+
+            services.AddSession(options =>{
+             options.IdleTimeout = TimeSpan.FromMinutes(20); // Ejemplo: sesión caduca al estar inactivo 20mins
+             options.Cookie.HttpOnly = true; 
+             options.Cookie.IsEssential = true; 
+            });
+
+
+
+
+
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -50,6 +65,8 @@ namespace Frontend
                 // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
                 app.UseHsts();
             }
+
+            app.UseSession();
 
             app.UseHttpsRedirection();
             app.UseStaticFiles();

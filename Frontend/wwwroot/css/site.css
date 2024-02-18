@@ -50,6 +50,10 @@ button.accept-policy {
   font-size: 1rem;
   line-height: inherit;
 }
+.card-pequeña {
+  width: 300px;   /* Ajuste el ancho en pixeles o usa medidas como "%" */
+  margin: 20px auto; /* Opcional, centra la card */
+}
 
 /* Sticky footer styles
 -------------------------------------------------- */

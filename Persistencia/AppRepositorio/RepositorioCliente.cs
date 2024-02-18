@@ -5,6 +5,7 @@ using Dominio;
 using Fondo_Ahorro_App.Persistencia;
 using System.Threading.Tasks;
 
+
 namespace Fondo_Ahorro_App.Persistencia
 {
     public class RepositorioCliente : IRepositorioCliente
@@ -39,6 +40,7 @@ namespace Fondo_Ahorro_App.Persistencia
 
     Cliente IRepositorioCliente.GetCliente(int Id_Cliente)
     {
+      //return _appContext.clientes.FirstOrDefault(c=> c.Nombre == nombre);
       return _appContext.clientes.FirstOrDefault(c=> c.Id == Id_Cliente);
     }
 
