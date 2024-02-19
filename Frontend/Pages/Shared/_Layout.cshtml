@@ -7,8 +7,24 @@
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" />
     <script src="https://kit.fontawesome.com/50ff11670d.js" crossorigin="anonymous"></script>
-<style>
 
+<style>
+.input-container {
+  position: relative;
+}
+.input-container i {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 16px;
+}
+.input-container i.fa-user {
+  right: 10px;
+}
+
+.input-container i.fa-lock {
+  right: 10px;
+}
     header img {
     width: 10%; /* La imagen ocupará el 100% del ancho del contenedor */
     height: auto; /* La altura se ajustará automáticamente para mantener la proporción original */

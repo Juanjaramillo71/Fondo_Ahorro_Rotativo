@@ -2,39 +2,40 @@
 @model Frontend.Pages.LoginClienteModel
 @{
 }
-<div class="justify-content-center text-center">
-    <h1>Ingresar Nuevo Cliente</h1>
-    <br>
-</div>
-<div class="row">
-    <div class="col-md-4">
-        <form method="post">
-            <!--<div asp-validation-summary="ModelOnly" class="text-danger"></div>
-            <div class="form-group">
-                <label asp-for="cliente.Nombre" class="control-label"></label>
-                <input asp-for="cliente.Nombre" class="form-control" />
-                <span asp-validation-for="cliente.Nombre" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="cliente.Contraseña" class="control-label"></label>
-                <input asp-for="cliente.Contraseña" class="form-control" />
-                <span asp-validation-for="cliente.Contraseña" class="text-danger"></span>
-            </div>                                      
-            <div class="form-group">
-                <input type="submit" value="Registrar" class="btn btn-primary" />
 
-            </div> -->
-            <div>
-        <label for="cedula">Identificacion:</label>
-        <input type="text" id="cedula" name="cedulaU" required>
-    </div>
-    <div>
-        <label for="contrasena">Contraseña:</label>
-        <input type="password" id="contrasena" name="contrasenaU" required>
-    </div>
-    <div>
-        <input type="submit" value="Iniciar Sesion">
-    </div>
-        </form>
+<div class="container-fluid">
+    <div class="row justify-content-center">
+        <div class="col-md-4">
+            <div class="card">
+                <div class="card-header text-center">
+                    <h1>FIDALIA</h1>
+                </div>
+                <div class="card-body">
+                    <form method="post">
+                        <div class="form-group">
+                            <label for="cedula">Identificación</label>
+                             <div class="input-container">
+                                    <input type="text" id="cedula" name="cedulaU" placeholder="Ingrese su identificación" class="form-control" required>
+                                    <i class="fas fa-user fa-lg"></i>
+                                </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="contrasena">Contraseña</label>
+                            <div class="input-container">
+                            <input type="password" id="contrasena" name="contrasenaU" placeholder="Ingrese su contraseña" class="form-control" required>
+                            <i class="fas fa-lock fa-lg ml-2"></i>
+                            </div>
+                        </div>
+                        <div class="form-group text-center">
+                            <button type="submit" class="btn btn-primary">Iniciar Sesión</button>
+                        </div>
+                        <div class="form-group text-center">
+                            <a href="#">¿Olvidó su contraseña?</a>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
     </div>
 </div>
+

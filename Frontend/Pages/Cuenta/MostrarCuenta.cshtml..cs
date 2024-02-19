@@ -5,6 +5,7 @@ using Dominio;
 using Fondo_Ahorro_App.Persistencia;
 using Microsoft.AspNetCore.Http;
 
+
 namespace Frontend.Pages
 {
     public class MostrarCuentaModel : PageModel
@@ -18,19 +19,23 @@ namespace Frontend.Pages
             _reposC = repoCuenta;
             _repoCliente = repoCliente;
         }
-       public void OnGet(string cedulaU)
+       public void OnGet(int IdCliente)
         {
-            var IdUsuario = HttpContext.Session.GetString("CedulaUsuario");
-            ViewData["CedulaUsuario"] = IdUsuario;
+            Cliente = _repoCliente.GetCliente(IdCliente);
+            //Console.WriteLine(Cliente.Nombre);
 
 
-           /* if(!string.IsNullOrEmpty(cedulaU))
+            /*var IdUsuario = HttpContext.Session.GetString("CedulaUsuario");
+            ViewData["CedulaUsuario"] = IdUsuario;*/
+
+
+          /* if(!string.IsNullOrEmpty(cedulaU))
              {
-                Cliente = _repoCliente.GetCliente(nombreU); // Buscar cliente
-                ViewData["NombreUsuario"] = Cliente.Nombre;  
+                Cliente = _repoCliente.GetCliente(cedulaU); // Buscar cliente
+                ViewData["CedulaUsuario"] = Cliente.Cedula;  
              }
-
-            */
+*/
+            
             
             /*ViewData["NombreUsuario"] = cliente.NombreU;   */      
             

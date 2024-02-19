@@ -4,6 +4,7 @@ using Dominio;
 using Fondo_Ahorro_App.Persistencia;
 using Microsoft.AspNetCore.Session;
 using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc.ModelBinding.Validation;
 
 namespace Frontend.Pages
 {
@@ -40,16 +41,19 @@ namespace Frontend.Pages
                 return RedirectToPage("./LoginCliente");
             } 
             //return RedirectToPage("/Privacy");
+            var cU = cliente.Id;
 
-           // return RedirectToPage("/Cuenta/MostrarCuenta", new { cliente = cliente });
+            return RedirectToPage("/Cuenta/MostrarCuenta", new { IdCliente = cU });
 
-          HttpContext.Session.SetString("CedulaUsuario", CedulaU);
+           
+        
+         //HttpContext.Session.SetString("CedulaUsuario", CedulaU);
         //return RedirectToPage("/Cuenta/MostrarCuenta");
 
 
 
     
-            return RedirectToPage("/Cuenta/MostrarCuenta");
+           // return RedirectToPage("/Cuenta/MostrarCuenta");
         }
     }
 }

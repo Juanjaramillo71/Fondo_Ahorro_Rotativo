@@ -82,3 +82,24 @@ body {
 .title {
   font-family: "Lucida Console", "Courier New", monospace;
 }
+
+/* Sticky footer styles
+-------------------------------------------------- */
+.input-container {
+  position: relative;
+}
+
+.input-container i {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 16px;
+}
+
+.input-container i.fa-user {
+  left: 10px;
+}
+
+.input-container i.fa-lock {
+  right: 10px;
+}
