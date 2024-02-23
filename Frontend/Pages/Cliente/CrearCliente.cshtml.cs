@@ -28,6 +28,7 @@ namespace Frontend.Pages
         }
         public IActionResult OnPost(Cliente cliente)
         {
+            Console.WriteLine("hola");
             _repo.AddCliente(cliente);
             var Cc = cliente.Cedula;
             _repoCu.AddCuenta(Cc);

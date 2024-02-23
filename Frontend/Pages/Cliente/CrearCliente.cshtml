@@ -15,8 +15,8 @@
   <div class="containerR">
     <div class="formulario">
       <h1>Registro de Usuario</h1>
-      <form action="#">
-
+      @*<form action="#">*@
+    <form method="post">
         <div class="campo">
           <input asp-for="cliente.Nombre" class="form-control" type="text" id="nombre" name="nombre" placeholder="Ingrese su nombre" />
           <span asp-validation-for="cliente.Nombre" class="text-danger"></span>
@@ -33,26 +33,41 @@
           <input asp-for="cliente.Telefono" class="form-control" type="text" id="telefono" name="telefono" placeholder="Ingrese su telefono" />
           <span asp-validation-for="cliente.Telefono" class="text-danger"></span>
         </div> 
-        
+        <div class="campo">
+          <input asp-for="cliente.Direccion" class="form-control" type="text" id="direccion" name="direccion" placeholder="Ingrese su direccion" />
+          <span asp-validation-for="cliente.Direccion" class="text-danger"></span>
+        </div> 
+        <div class="campo">
+          <input asp-for="cliente.Email" class="form-control" type="text" id="email" name="email" placeholder="Ingrese su email" />
+          <span asp-validation-for="cliente.Email" class="text-danger"></span>
+        </div> 
+        <div class="campo">
+          <input asp-for="cliente.Contraseña" class="form-control" type="text" id="contraseña" name="contraseña" placeholder="Cree su contraseña" />
+          <span asp-validation-for="cliente.Contraseña" class="text-danger"></span>        </div>    
 
         <div class="campo">
-          <label for="fecha_nacimiento">Fecha de nacimiento</label>
-          <input type="date" id="fecha_nacimiento" name="fecha_nacimiento">
+          <label for="fechanacimiento">Fecha de nacimiento</label>
+          <input asp-for="cliente.FechaNacimiento" class="form-control" type="date" id="fechanacimiento" name="fechanacimiento">
+          <span asp-validation-for="cliente.FechaNacimiento" class="text-danger"></span>
         </div>
+        <div class="campo">
+          <input asp-for="cliente.Edad" class="form-control" type="text" id="edad" name="edad" placeholder="Ingrese su edad" />
+          <span asp-validation-for="cliente.Edad" class="text-danger"></span>
+        </div>      
 
         <div class="campo">
           <label for="genero">Género</label>
-          <select id="genero" name="genero">
+          <select id="genero" name="genero" class="form-control" asp-for="cliente.Genero">
             <option value="masculino">Masculino</option>
             <option value="femenino">Femenino</option>
             <option value="otro">Otro</option>
           </select>
-        </div>
-        
+        </div>   
+            
         <div class="campo">
-          <input type="submit" value="Registrarse">
+          <input type="submit" value="Registrar" class="btn btn-primary"/>
         </div>
-      </form>
+      </form> 
     </div>
   </div>
 @*</body>
