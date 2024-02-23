@@ -2,58 +2,61 @@
 @model Frontend.Pages.CrearClienteModel
 @{
 }
-<div class="justify-content-center text-center">
-    <h1>Ingresar Nuevo Cliente</h1>
-    <br>
-</div>
-<div class="row">
-    <div class="col-md-4">
-        <form method="post">
-            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-            <div class="form-group">
-                <label asp-for="cliente.Nombre" class="control-label"></label>
-                <input asp-for="cliente.Nombre" class="form-control" />
-                <span asp-validation-for="cliente.Nombre" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="cliente.Apellido" class="control-label"></label>
-                <input asp-for="cliente.Apellido" class="form-control" />
-                <span asp-validation-for="cliente.Apellido" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="cliente.Cedula" class="control-label"></label>
-                <input asp-for="cliente.Cedula" class="form-control" />
-                <span asp-validation-for="cliente.Cedula" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="cliente.NumeroTelefono" class="control-label"></label>
-                <input asp-for="cliente.NumeroTelefono" class="form-control" />
-                <span asp-validation-for="cliente.NumeroTelefono" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="cliente.Edad" class="control-label"></label>
-                <input asp-for="cliente.Edad" class="form-control" />
-                <span asp-validation-for="cliente.Edad" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="cliente.Direccion" class="control-label"></label>
-                <input asp-for="cliente.Direccion" class="form-control" />
-                <span asp-validation-for="cliente.Direccion" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="cliente.genero" class="control-label"></label>
-                <input asp-for="cliente.genero" class="form-control" />
-                <span asp-validation-for="cliente.genero" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="cliente.Contraseña" class="control-label"></label>
-                <input asp-for="cliente.Contraseña" class="form-control" />
-                <span asp-validation-for="cliente.Contraseña" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <input type="submit" value="Registrar" class="btn btn-primary" />
+@*<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Registro de Usuario</title>
+  <link rel="stylesheet" href="estilo.css">
 
-            </div>
-        </form>
+</head>*@
+@*<body>*@
+  <div class="containerR">
+    <div class="formulario">
+      <h1>Registro de Usuario</h1>
+      <form action="#">
+
+        <div class="campo">
+          <input asp-for="cliente.Nombre" class="form-control" type="text" id="nombre" name="nombre" placeholder="Ingrese su nombre" />
+          <span asp-validation-for="cliente.Nombre" class="text-danger"></span>
+        </div>  
+        <div class="campo">
+          <input asp-for="cliente.Apellido" class="form-control" type="text" id="apellido" name="apellido" placeholder="Ingrese su apellido" />
+          <span asp-validation-for="cliente.Apellido" class="text-danger"></span>
+        </div> 
+        <div class="campo">
+          <input asp-for="cliente.Cedula" class="form-control" type="text" id="cedula" name="cedula" placeholder="Ingrese su cedula" />
+          <span asp-validation-for="cliente.Cedula" class="text-danger"></span>
+        </div> 
+        <div class="campo">
+          <input asp-for="cliente.Telefono" class="form-control" type="text" id="telefono" name="telefono" placeholder="Ingrese su telefono" />
+          <span asp-validation-for="cliente.Telefono" class="text-danger"></span>
+        </div> 
+        
+
+        <div class="campo">
+          <label for="fecha_nacimiento">Fecha de nacimiento</label>
+          <input type="date" id="fecha_nacimiento" name="fecha_nacimiento">
+        </div>
+
+        <div class="campo">
+          <label for="genero">Género</label>
+          <select id="genero" name="genero">
+            <option value="masculino">Masculino</option>
+            <option value="femenino">Femenino</option>
+            <option value="otro">Otro</option>
+          </select>
+        </div>
+        
+        <div class="campo">
+          <input type="submit" value="Registrarse">
+        </div>
+      </form>
     </div>
-</div>
+  </div>
+@*</body>
+</html>*@
+
+
+

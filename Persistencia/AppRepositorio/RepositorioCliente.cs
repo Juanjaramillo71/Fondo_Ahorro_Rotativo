@@ -53,9 +53,9 @@ namespace Fondo_Ahorro_App.Persistencia
        ClienteEncontrado.Apellido= cliente.Apellido;
        ClienteEncontrado.Cedula= cliente.Cedula;
        ClienteEncontrado.Direccion= cliente.Direccion;
-       ClienteEncontrado.NumeroTelefono= cliente.NumeroTelefono;
+       ClienteEncontrado.Telefono= cliente.Telefono;
        ClienteEncontrado.Edad= cliente.Edad;
-       ClienteEncontrado.genero= cliente.genero;
+       ClienteEncontrado.Genero= cliente.Genero;
        ClienteEncontrado.Contraseña= cliente.Contraseña;
 
       _appContext.SaveChanges();
