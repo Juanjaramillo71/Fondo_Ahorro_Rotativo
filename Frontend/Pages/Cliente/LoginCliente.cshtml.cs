@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Dominio;
 using Fondo_Ahorro_App.Persistencia;
+using System;
 using Microsoft.AspNetCore.Session;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc.ModelBinding.Validation;
@@ -42,6 +43,7 @@ namespace Frontend.Pages
             } 
             //return RedirectToPage("/Privacy");
             var cU = cliente.Id;
+            //Console.WriteLine(cU);
 
             return RedirectToPage("/Cuenta/MostrarCuenta", new { IdCliente = cU });
 

@@ -577,3 +577,4 @@ D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_App\Frontend\obj\Debug\netco
 D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_App\Frontend\obj\Debug\netcoreapp3.1\Frontend.genruntimeconfig.cache
 D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_App\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Cuenta\MostrarCuenta.cshtml.g.cs
 D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_App\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Transaccion\Transaccion.cshtml.g.cs
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_App\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Cuenta\CrearCuenta.cshtml.g.cs

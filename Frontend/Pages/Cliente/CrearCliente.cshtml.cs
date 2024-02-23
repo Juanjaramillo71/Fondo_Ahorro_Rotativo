@@ -13,10 +13,14 @@ namespace Frontend.Pages
     public class CrearClienteModel : PageModel
     {
         private readonly IRepositorioCliente _repo;
+        private readonly IRepositorioCuenta _repoCu;
+        public IEnumerable<Cuenta> Cuentas{get;set;}
         public Cliente cliente {get;set;}
-        public CrearClienteModel(IRepositorioCliente repositorioC)
+
+        public CrearClienteModel(IRepositorioCliente repositorioC, IRepositorioCuenta repoCuenta)
         {
             _repo= repositorioC;
+            _repoCu = repoCuenta;
         }
         
         public void OnGet()
@@ -25,7 +29,11 @@ namespace Frontend.Pages
         public IActionResult OnPost(Cliente cliente)
         {
             _repo.AddCliente(cliente);
-            return new RedirectToPageResult("/Cliente/MostrarListadoCliente");
+            var Cc = cliente.Cedula;
+            _repoCu.AddCuenta(Cc);
+
+            //return new RedirectToPageResult("/Cliente/MostrarListadoCliente");
+            return new RedirectToPageResult("/Cuenta/CrearCuenta");
         }
     }
 }
