@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using System.Linq;
 using Dominio;
 
 namespace Fondo_Ahorro_App.Persistencia
@@ -28,6 +29,14 @@ namespace Fondo_Ahorro_App.Persistencia
         var cuentaAdicionado=_appContext.cuentas.Add(cuenta);
        _appContext.SaveChanges();
        return cuentaAdicionado.Entity;
-    }   
+    } 
+    Cuenta IRepositorioCuenta.GetCuenta(int Id_Cliente)
+    {
+      //return _appContext.clientes.FirstOrDefault(c=> c.Nombre == nombre);
+      return _appContext.cuentas.FirstOrDefault(c=> c.CuentaId == Id_Cliente);
+    }
+
+
+
     }
 }

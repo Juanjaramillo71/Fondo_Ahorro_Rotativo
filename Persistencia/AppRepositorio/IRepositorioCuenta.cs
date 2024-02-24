@@ -7,6 +7,8 @@ namespace Fondo_Ahorro_App.Persistencia
  {
       IEnumerable<Cuenta> GetCuenta();
       Cuenta AddCuenta( string CedulaCliente);
+
+     Cuenta GetCuenta(int Id_Cliente);
  }
 
 }

@@ -14,6 +14,7 @@ namespace Frontend.Pages
         private readonly IRepositorioCliente _repoCliente;
         public IEnumerable<Cuenta> Cuentas{get;set;}
          public Cliente Cliente { get; set; } 
+         public Cliente Cuenta { get; set; } 
         public MostrarCuentaModel(IRepositorioCuenta repoCuenta, IRepositorioCliente repoCliente)
         {
             _reposC = repoCuenta;
@@ -22,6 +23,7 @@ namespace Frontend.Pages
        public void OnGet(int IdCliente)
         {
             Cliente = _repoCliente.GetCliente(IdCliente);
+            //Cuenta = _reposC.GetCuenta();
             //Console.WriteLine(Cliente.Nombre);
 
 

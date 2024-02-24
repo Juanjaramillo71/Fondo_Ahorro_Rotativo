@@ -1,0 +1,46 @@
+@page 
+@model Frontend.Pages.MostrarCuentaModel
+@{
+}
+
+<div class="justify-content-center text-center">
+    <h1> Tu Cuenta Fidalia</h1>
+    <br>
+</div>
+<div>
+
+<div class="container">
+  <div class="card" style="width: 300px; margin: 20px auto;">
+    <div class="card-header">
+      <h1>@Model.Cliente.Nombre @Model.Cliente.Apellido</h1>
+    </div>
+    <div class="card-body">        
+      <table class="table">
+        <tr>
+          <td height="10px"> CuentaId</td>
+          <td>@Model.Cliente.Cedula</td>
+        </tr>
+        <tr>
+          <td height="10px">Titular</td>
+          <td> 0 </td>
+        </tr>
+        <tr>
+          <td height="10px">Ahorro</td>
+          <td> 0 </td>
+        </tr>
+        <tr>
+          <td height="10px">Intereses</td>
+          <td>$ 0</td>
+        </tr>
+        <tr>
+          <td height="10px">Saldo Total</td>
+          <td>$ 0</td>
+        </tr>
+      </table>
+    </div>
+  </div>
+</div>
+</div>
+<div class="justify-content-center text-center">
+<a asp-page="/Cliente/CrearCliente">Regalizar Pago</a>
+</div>

@@ -45,11 +45,24 @@
           <input asp-for="cliente.Contraseña" class="form-control" type="text" id="contraseña" name="contraseña" placeholder="Cree su contraseña" />
           <span asp-validation-for="cliente.Contraseña" class="text-danger"></span>        </div>    
 
-        <div class="campo">
+       @* <div class="campo">
           <label for="fechanacimiento">Fecha de nacimiento</label>
           <input asp-for="cliente.FechaNacimiento" class="form-control" type="date" id="fechanacimiento" name="fechanacimiento">
           <span asp-validation-for="cliente.FechaNacimiento" class="text-danger"></span>
+        </div>*@
+        <div class="campo">
+             <label for="fechanacimiento">Fecha de nacimiento</label>
+                <div class="input-group date">
+              <input type="date" id="fechanacimiento" name="fechanacimiento" class="form-control" />
+              <span class="input-group-addon">
+                <span class="glyphicon glyphicon-calendar"></span>
+              </span>
+                </div>
+                <span asp-validation-for="cliente.FechaNacimiento" class="text-danger"></span>
         </div>
+
+
+
         <div class="campo">
           <input asp-for="cliente.Edad" class="form-control" type="text" id="edad" name="edad" placeholder="Ingrese su edad" />
           <span asp-validation-for="cliente.Edad" class="text-danger"></span>
