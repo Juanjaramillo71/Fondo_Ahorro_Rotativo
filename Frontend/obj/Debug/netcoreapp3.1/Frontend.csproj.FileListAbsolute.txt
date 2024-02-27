@@ -580,3 +580,4 @@ D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_App\Frontend\obj\Debug\netco
 D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_App\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Cuenta\CrearCuenta.cshtml.g.cs
 D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_App\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Cliente\CrearClienteCopy.cshtml.g.cs
 D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_App\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Cuenta\MostrarCuenta copy.cshtml.g.cs
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_App\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Index copy.cshtml.g.cs

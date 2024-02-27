@@ -20,7 +20,7 @@ using Frontend;
 #line hidden
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"011413c68f833588bf026d37dae793cf0f42b02b", @"/Pages/Cuenta/CrearCuenta.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"1864ae33000be3f3b251118b425f84120520c9fe", @"/Pages/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"10e7216069f48c57b0b0fadbe8f10eca06aff21f", @"/Pages/_ViewImports.cshtml")]
     #nullable restore
     public class Pages_Cuenta_CrearCuenta : global::Microsoft.AspNetCore.Mvc.RazorPages.Page
     #nullable disable

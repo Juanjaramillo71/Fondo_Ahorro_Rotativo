@@ -1,88 +1,74 @@
 ﻿@page
 @model IndexModel
 @{
-    ViewData["Title"] = "Home page";
+  ViewData["Title"] = "Home page";
 }
- 
-<div class="text-left">
-    <h1 class="display-4 text-center ">Bienvenido a FIDALIA</h1>
-    <h1 class="display-8">La mejor forma de ahorrar para tu salud</h1>
-    @*<p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>*@
-</div>
-<div>
-    <p>En FIDALIA, creemos en la importancia de cuidar tu salud y bienestar financiero. 
-       Nuestra plataforma está diseñada para ayudarte a construir un futuro más saludable 
-       y próspero a través del ahorro inteligente.</p>   
-</div>
-<div>
-    <h1 class="display-8 ">Por que FIDALIA</h1>
-</div>
-<div>
-    <p>
-        Enfocamos nuestros esfuerzos en la idea de que el bienestar financiero y la salud 
-        van de la mano. Creemos que cuando te sientes bien, puedes rendir al máximo 
-        y disfrutar plenamente de la vida. Por eso, ofrecemos un enfoque único en el ahorro 
-        para la salud.
-    </p>
-</div>
 
-<div>
-    <h1 class="display-8 ">Tu Salud, Tu Riqueza:</h1>
-</div>
-<div>
-    <p>
-        Nuestra plataforma no es solo un lugar para guardar dinero; 
-        es un espacio donde tu bienestar es la prioridad. 
-        Te brindamos la oportunidad de fondear tus ahorros 
-        mientras te enfocas en tu salud y felicidad. 
-        Queremos ser tu aliado en el viaje hacia una vida 
-        más saludable y financieramente sólida.
-    </p>
-</div>
-<div>
-    <h1 class="display-8 ">Beneficios:</h1>
-</div>
-<div>
-    <p>
-        •	Fondos para Emergencias Médicas: Garantiza que estás preparado 
-            para cualquier eventualidad médica.
-    </p>
-</div>
-<div>
-    <p>
-        •	Incentivos para Hábitos Saludables: Recompensamos tus esfuerzos 
-            por mantener un estilo de vida saludable.
-    </p>
-</div>
-<div>
-    <p>
-        •	Comunidad de Apoyo: Conéctate con otros miembros 
-            que comparten tus objetivos de salud y bienestar.
-    </p>
-</div>
-<div>
-    <h1 class="display-8 "> Únete a Nosotros::</h1>
-</div>
-<div>
-    <p>
-        ¡Únete a FIDALIA y comienza tu viaje 
-        hacia una vida más saludable y financieramente segura hoy mismo! 
-        Juntos, podemos construir un futuro donde la salud y la riqueza caminen de la mano.
-    </p>
-</div>
-<div>
-    <h1 class="display-5 ">Si ya eres cliente, ingresa a tu cuenta para ver tu saldo y realizar tus aportes.</h1>
-    <i class="fa fa-plus"></i>
-    <a asp-page= "Cliente/CrearCliente">Registrarse</a> 
+<header class="bg-primary text-white">
+  <div class="container">
+    <h1 class="display-4">FIDALIA</h1>
+    <p class="lead">La mejor forma de ahorrar para tu salud</p>
+  </div>
+</header>
 
-</div>
-<div>
-    <i class="fa fa-plus"></i>
-    <a asp-page= "Cliente/LoginCliente">Iniciar Sesion</a> 
-</div>
+<main class="container">
+  <section class="mb-5">
+    <h2 class="display-5">¿Qué es FIDALIA?</h2>
+    <p class="lead">En FIDALIA, creemos en la importancia de cuidar tu salud y bienestar financiero. Nuestra plataforma está diseñada para ayudarte a construir un futuro más saludable y próspero a través del ahorro inteligente.</p>
+    <p>
+      •   Fondos para Emergencias Médicas: Garantiza que estás preparado para cualquier eventualidad médica.
+      •   Incentivos para Hábitos Saludables: Recompensamos tus esfuerzos por mantener un estilo de vida saludable.
+      •   Comunidad de Apoyo: Conéctate con otros miembros que comparten tus objetivos de salud y bienestar.
+    </p>
+  </section>
 
-@*<style>
-.title {
-    font-family: "Lucida Console", "Courier New", monospace;
-}
-</style>*@
+  <section class="mb-5">
+    <h2 class="display-5">¿Por qué elegir FIDALIA?</h2>
+    <div class="row">
+      <div class="col-md-4">
+        <i class="fa fa-check-circle fa-2x"></i>
+        <h3 class="mt-3">Enfoque único en el ahorro para la salud</h3>
+        <p>No solo un lugar para guardar dinero, sino un espacio donde tu bienestar es la prioridad.</p>
+      </div>
+      <div class="col-md-4">
+        <i class="fa fa-users fa-2x"></i>
+        <h3 class="mt-3">Comunidad de apoyo</h3>
+        <p>Conéctate con otros miembros que comparten tus objetivos.</p>
+      </div>
+      <div class="col-md-4">
+        <i class="fa fa-mobile fa-2x"></i>
+        <h3 class="mt-3">App móvil disponible</h3>
+        <p>Maneja tus finanzas desde cualquier lugar.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="mb-5">
+    <h2 class="display-5">Testimonios</h2>
+    <div class="row">
+      <div class="col-md-6">
+        <blockquote class="blockquote">
+          <p>FIDALIA me ha ayudado a tomar el control de mi salud financiera y a estar mejor preparado para el futuro.</p>
+          <footer class="blockquote-footer">Juan Pérez</footer>
+        </blockquote>
+      </div>
+      <div class="col-md-6">
+        <blockquote class="blockquote">
+          <p>Gracias a FIDALIA, he podido mejorar mi estilo de vida y alcanzar mis objetivos de salud.</p>
+          <footer class="blockquote-footer">Ana García</footer>
+        </blockquote>
+      </div>
+    </div>
+  </section>
+
+  <section class="bg-primary text-white">
+    <div class="container">
+      <h2 class="display-5">¡Únete a FIDALIA hoy mismo!</h2>
+      <p class="lead">Comienza tu viaje hacia una vida más saludable y financieramente segura.</p>
+      
+      <a asp-page="Cliente/CrearCliente" class="btn btn-lg btn-light">Registrarse</a>
+      <a asp-page="Cliente/LoginCliente" class="btn btn-lg btn-light">Iniciar Sesion</a>
+      
+    </div>
+  </section>
+</main>
