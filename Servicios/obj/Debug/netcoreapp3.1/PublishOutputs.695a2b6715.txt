@@ -1,0 +1,7 @@
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_App\Servicios\bin\Debug\netcoreapp3.1\publish\Servicios.exe
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_App\Servicios\bin\Debug\netcoreapp3.1\publish\appsettings.Development.json
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_App\Servicios\bin\Debug\netcoreapp3.1\publish\appsettings.json
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_App\Servicios\bin\Debug\netcoreapp3.1\publish\Servicios.dll
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_App\Servicios\bin\Debug\netcoreapp3.1\publish\Servicios.deps.json
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_App\Servicios\bin\Debug\netcoreapp3.1\publish\Servicios.runtimeconfig.json
+D:\Proyectos VSC\Proyectos Secundarios\Fondo_Ahorro_App\Servicios\bin\Debug\netcoreapp3.1\publish\Servicios.pdb
